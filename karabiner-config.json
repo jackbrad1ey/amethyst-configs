@@ -1,0 +1,128 @@
+{
+    "title": "personal-config",
+    "rules": [
+        {
+            "description": "yep",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "f5"
+                    },
+                    "to": [
+                        {
+                            "key_code": "a",
+                            "modifiers": [
+                                "left_shift",
+                                "option",
+                                "command",
+                                "left_control"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "f6"
+                    },
+                    "to": [
+                        {
+                            "key_code": "n",
+                            "modifiers": [
+                                "left_shift",
+                                "option",
+                                "command",
+                                "left_control"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Notion shortcuts",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "e",
+                        "modifiers": {
+                            "mandatory": ["right_command"]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "slash"
+                        },
+                        {
+                            "key_code": "i"
+                        },
+                        {
+                            "key_code": "n"
+                        },
+                        {
+                            "key_code": "l"
+                        },
+                        {
+                            "key_code": "i"
+                        },
+                        {
+                            "key_code": "n"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "q"
+                        },
+                        {
+                            "key_code": "return_or_enter"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "b",
+                        "modifiers": {
+                            "mandatory": ["right_command"]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "slash"
+                        },
+                        {
+                            "key_code": "b"
+                        },
+                        {
+                            "key_code": "l"
+                        },
+                        {
+                            "key_code": "o"
+                        },
+                        {
+                            "key_code": "c"
+                        },
+                        {
+                            "key_code": "k"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "q"
+                        },
+                        {
+                            "key_code": "return_or_enter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
