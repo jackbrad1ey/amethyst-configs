@@ -37,6 +37,17 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "f4"
+                    },
+                    "to": [
+                        {
+                            "key_code": "launchpad"
+                        }
+                    ]
                 }
             ]
         },
