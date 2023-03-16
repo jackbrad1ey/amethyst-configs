@@ -2,7 +2,7 @@
     "title": "personal-config",
     "rules": [
         {
-            "description": "yep",
+            "description": "Macbook function key modifications",
             "manipulators": [
                 {
                     "type": "basic",

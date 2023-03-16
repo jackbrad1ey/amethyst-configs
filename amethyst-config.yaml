@@ -1,0 +1,17 @@
+layouts:
+    - tall
+    - fullscreen
+
+mod1:
+    - control
+    - option
+    - shift
+    - command
+
+cycle-layout:
+    mod: mod1
+    key: a
+
+swap-screen-cw:
+    mod: mod1
+    key: n
