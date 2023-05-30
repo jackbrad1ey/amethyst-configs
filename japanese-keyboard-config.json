@@ -1,0 +1,28 @@
+{
+    "title": "Japanese keyboard config",
+    "rules": [
+        {
+            "description": "Number row configuration",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "2",
+                        "modifiers": {
+                            "mandatory": ["left_shift"]
+                        }
+                    }
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "6",
+                        "modifiers": {
+                            "mandatory": ["left_shift"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

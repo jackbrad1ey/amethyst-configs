@@ -130,6 +130,120 @@
                         },
                         {
                             "key_code": "return_or_enter"
+                        },
+                        {
+                            "key_code": "backslash"
+                        },
+                        {
+                            "key_code": "backslash"
+                        },
+                        {
+                            "key_code": "b"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "g"
+                        },
+                        {
+                            "key_code": "i"
+                        },
+                        {
+                            "key_code": "n"
+                        },
+                        {
+                            "key_code": "open_bracket",
+                            "modifiers": [
+                                "left_shift"
+                            ]
+                        },
+                        {
+                            "key_code": "a"
+                        },
+                        {
+                            "key_code": "l"
+                        },
+                        {
+                            "key_code": "i"
+                        },
+                        {
+                            "key_code": "g"
+                        },
+                        {
+                            "key_code": "n"
+                        },
+                        {
+                            "key_code": "8",
+                            "modifiers": [
+                                "left_shift"
+                            ]
+                        },
+                        {
+                            "key_code": "close_bracket",
+                            "modifiers": [
+                                "left_shift"
+                            ]
+                        },
+                        {
+                            "key_code": "return_or_enter",
+                            "modifiers": [
+                                "left_shift"
+                            ]
+                        },
+                        {
+                            "key_code": "return_or_enter",
+                            "modifiers": [
+                                "left_shift"
+                            ]
+                        },
+                        {
+                            "key_code": "backslash"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "n"
+                        },
+                        {
+                            "key_code": "d"
+                        },
+                        {
+                            "key_code": "open_bracket",
+                            "modifiers": [
+                                "left_shift"
+                            ]
+                        },
+                        {
+                            "key_code": "a"
+                        },
+                        {
+                            "key_code": "l"
+                        },
+                        {
+                            "key_code": "i"
+                        },
+                        {
+                            "key_code": "g"
+                        },
+                        {
+                            "key_code": "n"
+                        },
+                        {
+                            "key_code": "8",
+                            "modifiers": [
+                                "left_shift"
+                            ]
+                        },
+                        {
+                            "key_code": "close_bracket",
+                            "modifiers": [
+                                "left_shift"
+                            ]
+                        },
+                        {
+                            "key_code": "up_arrow"
                         }
                     ]
                 }
