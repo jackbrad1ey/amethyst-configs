@@ -132,7 +132,7 @@
                             "key_code": "return_or_enter"
                         },
                         {
-                            "key_code": "backslash"
+                            "key_code": "delete_or_backspace"
                         },
                         {
                             "key_code": "backslash"
